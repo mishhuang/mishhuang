@@ -7,7 +7,6 @@ Computer Science Student
 I've been learning to code for the past year, after switching career paths. While I started off with HTML and CSS, I am currently working towards learning more about backend development, so I've been tackling some projects involving Python and Javascript.
 
 *   🌍  I'm based in the Washington, DC area
-*   ✉️  You can contact me at [mhuang987@gmail.com](mailto:mhuang987@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michelle-huang-7388a0134/) 
