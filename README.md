@@ -4,7 +4,7 @@ Hiya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Computer Science Student
 ------------------------
 
-I've been learning to code for the past year after switching career paths from healthcare. While I started off with HTML and CSS, I am currently working towards learning more about backend development, so I've been tackling some projects involving Python and Javascript.
+I've been learning to code after switching career paths from healthcare. While I started off with HTML and CSS, I am currently working towards learning more about backend development, so I've been tackling some projects involving Python and Javascript.
 
 *   🌍  I'm based in the Washington, DC area
 
