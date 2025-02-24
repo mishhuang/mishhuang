@@ -4,7 +4,7 @@ Hiya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Junior Software Engineer at Skyward IT Solutions
 ------------------------------------------------
 
-I've been learning to code after switching career paths from healthcare. While I started off with HTML and CSS, I've really been enjoying backend development as well. Currently, I'm working as a junior software engineer, where I develop AI solutions with a strong focus on human-centered design.
+I'm a Software Engineer with a passion for technology and healthcare. I've been learning to code after switching career paths from medicine. While I started off with HTML and CSS, I've really been enjoying backend development as well. Currently, I'm working as a junior software engineer, where I develop AI solutions with a strong focus on human-centered design.
 
 * 🌍  I'm based in the Washington, DC area
 * ✉️  You can contact me at [mhuang987@gmail.com](mailto:mhuang987@gmail.com)
