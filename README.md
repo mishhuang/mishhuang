@@ -1,23 +1,24 @@
 Hiya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michelle Huang
 ======================================================================================================================================
 
-Software Engineer at Skyward IT Solutions
+Software Engineer · AI Systems & Infrastructure
 ------------------------------------------------
 
-I'm a Software Engineer at Skyward IT Solutions building production AI systems and leading technical initiatives. I architect AI agents, design data pipelines, and engineer infrastructure that powers real-world applications.
+I'm a Software Engineer specializing in production AI systems and ML infrastructure. I architect AI agents, build data pipelines, and engineer GPU compute environments from multi-agent orchestration down to CUDA kernel optimization.
 
 **What I'm building:**
 Production AI agents with conversational interfaces and enterprise integrations
-Scalable data pipelines processing documents with LLM evaluation frameworks
-CI/CD automation and distributed systems (Redis, AWS, Docker)
-Tools and orchestration systems that make AI agents work together
+Document pipelines with LLM evaluation frameworks and RAG
+CI/CD automation and cloud infrastructure
+Multi-agent orchestration and custom inference infrastructure
+GPU kernel programming and ML inference optimization
 
 **My background:**
-Switched from healthcare/medicine to software engineering, bringing a unique perspective on human-centered design. With degrees in Computer Science and Physiology/Neurobiology, I approach technology through the lens of "how will people actually use this?"
+Switched from healthcare/medicine to software engineering, bringing a unique perspective on human-centered design. Dual degrees in Computer Science and Physiology/Neurobiology, with a background in healthcare, I approach technology through the lens of "how will people actually use this?"
 
 * 🌍  I'm based in the Washington, DC area
 * ✉️  You can contact me at [mhuang987@gmail.com](mailto:mhuang987@gmail.com)
-* 🧠  I'm learning about AI development
+* 🧠  Currently building AI infrastructure and exploring small language models & custom inference
 * ⚡  I have a soft spot for sharks... My next life goal is to dive with whale sharks
 
 ## 💻 Tech Stack:
